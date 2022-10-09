@@ -1,3 +1,4 @@
-- 👋 Hi, I’m sidhu,I’m interested in data science
-- 🌱 I’m currently learning deep learning
+- 👋 Hi, I’m sidhu,I’m Working on Deep Learning Projects.
+- 🌱 I’m currently learning deep learning and NLP
+   
 
