@@ -1,5 +1,5 @@
 ![automatetheprocess](https://github.com/chippa2801/chippa2801/blob/main/2.png)
-### Sidhu Chippa
+# Sidhu Chippa
 #### Business Analyst
 My name is Sidhu, and I'm from Hyderabad. I love learning new languages and Algorithms like Python, R, and SQL. I'm ready to take on and overcome obstacles in the data science industry.
 
