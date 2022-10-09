@@ -1,4 +1,4 @@
-![automatetheprocess](https://github.com/chippa2801/chippa2801/blob/main/data%20science%20mage.jpeg)
+<img align="center" alt = "Coding" width = "300" src = "https://github.com/chippa2801/chippa2801/blob/main/data%20science%20mage.jpeg">
 ### Hi there 👋, I'm Sidhu
 #### Business Analyst
 My name is Sidhu, and I'm from Hyderabad. I love learning new languages and techniques like Python, R, and SQL. I'm ready to take on and overcome obstacles in the data science industry.
